@@ -249,6 +249,25 @@ Dependentes  ———	Não	 ———————————— 68,53%
 
 Serviço telefônico  —	Não  ————————————	63,02%
 
+*Análise de outliers*
+
+Foi utilizado o método do Intervalo Interquartil (IQR) e a visualização por boxplots para investigar possíveis valores extremos.
+
+Nenhum valor observado ultrapassou os limites calculados. Portanto, não foi identificada necessidade de exclusão de outliers nessas três variáveis.
+
+Também foram identificados cinco clientes com tempo de relacionamento igual a zero, correspondendo a aproximadamente 0,20% da base.
+
+*Análise bivariada*
+
+Foram desenvolvidas visualizações para investigar as relações entre Churn e cinco variáveis:
+
+1. Estado civil.
+2. Tipo de serviço de internet.
+3. Contratação de StreamingTV.
+4. Tipo de contrato.
+5. Método de pagamento.
+
+Também foram elaborados gráficos para comparar Churn com Total_Pago, Tempo_como_Cliente e Idoso.
 
 ## 💡 Principais Insights e Implicações
 
