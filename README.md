@@ -223,15 +223,32 @@ Qualidade da base
 - Valores ausentes: zero.
 - Base sem necessidade de novos tratamentos de valores ausentes.
 
-Estatísticas descritivas
 
-Indicador                  |	 Média   |	Mediana |	Mínimo |	Máximo
+*Estatísticas descritivas*
 
-Tempo como cliente (meses) |	 32,35   |	 29     |	 0	  | 72
+Indicador  ————————————	 Média   |	Mediana |	Mínimo |	Máximo
 
-Pagamento mensal	         |   66,34	 |   71,45	| 18,40	| 118,65
+Tempo como cliente (meses)  ————	32,35   |	 0029     |	 0000	  | 0072
 
-Total pago                 |	2.290,09 | 1.402,90 |	18,80 |	8.564,75
+Pagamento mensal  ———————— 66,34	 |   71,45	| 18,40	| 118,65
+
+Total pago  ———————————	2.290,09 | 1.402,90 |	18,80 |	8.564,75
+
+
+*Distribuição das variáveis booleanas*
+
+Variável  —————	Categoria predominante  —————	Percentual
+
+Gênero  ——————	Masculino  ——————————	51,00%
+
+Idoso  ———————	Não  ————————————	83,84%
+
+Casado  ——————	Não  ————————————	50,72%
+
+Dependentes  ———	Não	 ———————————— 68,53%
+
+Serviço telefônico  —	Não  ————————————	63,02%
+
 
 ## 💡 Principais Insights e Implicações
 
